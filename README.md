@@ -87,3 +87,34 @@ Satoshi Nakamoto's combination of Moore's Law and the halving mechanism may be a
 * **UTXO Carrier:**  Unspent Transaction Output, the fundamental unit of Bitcoin ownership.
 * **Script:**  Stack-based language for expressing transaction conditions.
 * **State Change:**  The process of updating the Bitcoin ledger through transactions.
+
+## How to Utilize Bitcoin's Adaptive Consensus (What the BEVM Team's SuperBitcoin is Doing)
+
+**Case 1: Satoshi Nakamoto's Timestamp System**
+
+Designed for recording and verifying transactions to prevent double-spending, this system relies on Bitcoin's consensus mechanism for security and holds the potential for broader applications in the future.
+
+**Case 2: Satoshi Nakamoto's BTC Cash Incentive System**
+
+This is the widely known BTC.
+
+**More Cases:**
+
+Combining Bitcoin's UTXO account model, sharing BTC consensus security to expand applications.
+
+## Exploring the Applications of Mechanical Consensus (What the BEVM Team's SuperBitcoin is Doing)
+
+The purpose of mechanical consensus is to solve the problem of distributed trust.
+
+The core value of blockchain technology lies in "mechanical consensus," which can solve the distributed trust problem.
+
+**Applications of Mechanical Consensus:**
+
+* **Securing Assets:** Guaranteeing asset security through decentralization.
+* **Decentralized Governance:** Building decentralized governance systems, such as DAOs, to manage and operate various projects and organizations.
+* **Controlling New Technologies like AI:** Preventing AI and other new technologies from being controlled by a few, ensuring human safety.
+* **Solving Information Trust Issues:** Addressing all information trust issues in the age of information explosion, such as information authenticity and reliability.
+
+The application scope of mechanical consensus extends far beyond asset security, potentially safeguarding human destiny and civilizational security.
+
+## How to Create More Adaptive (Bitcoin-like Consensus) Mechanical Consensus (A Question I and Some Good Friends Are Pondering)
