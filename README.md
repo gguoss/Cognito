@@ -248,7 +248,7 @@ The emergence of such problems is due to the entire crypto industry falling into
 
 Therefore, context is the core of cognitive level. Wang Yangming's "unity of knowledge and action" is an attitude of execution, an attitude of striving to obtain more context to enrich oneself and improve cognition.
 
-## Blockchain: A Cognitive Revolution
+# Blockchain: A Cognitive Revolution
 
 The emergence of Satoshi Nakamoto and Bitcoin not only disrupted finance but also brought about a cognitive revolution. It transformed time from an authoritative definition to a decentralized consensus, liberating truth from the hands of "prophets" and returning it to objective laws.
 
@@ -256,4 +256,63 @@ Blockchain technology challenges the centralized model of the traditional world.
 
 But the future of blockchain is full of hope. It encourages us to abandon our reliance on authority, embrace decentralized thinking, actively explore blockchain applications, and participate in the exploration of truth and the reshaping of the world.
 
-Satoshi Nakamoto
+Satoshi Nakamoto and Bitcoin have opened the doors to a new world for us. Let us embrace this cognitive revolution and create a better future together!
+
+## Blockchain: One Facet of Bitcoin's Myriad Aspects
+
+Bitcoin's interpretation extends far beyond blockchain technology. Blockchain is just one solution to the Byzantine Generals Problem using the Block + Chain data structure. When studying Bitcoin, we should avoid being limited to this and understand its rich connotations from a broader perspective.
+
+## What is Bitcoin?
+
+Bitcoin is a system designed by Satoshi Nakamoto based on the use case of "coin" while solving the "Satoshi Nakamoto Problem."
+
+## What is the Satoshi Nakamoto Problem?
+
+The core of the "Satoshi Nakamoto Problem" is exploring the deep motivation and logic behind Satoshi Nakamoto's creation of Bitcoin.
+
+Satoshi Nakamoto did not merely aim to create a digital currency; his goal was far-reaching and profound: to solve the increasingly serious problem of distributed trust in the information age. In this era, we rely on various networks and computer systems for data communication and processing, but these systems are vulnerable to information leakage and tampering, making trust fragile.
+
+Satoshi Nakamoto's initial vision was to establish a decentralized bank or trust system. However, due to the difficulty of implementation, he ultimately chose a more feasible path - creating a decentralized currency, Bitcoin.
+
+The birth of Bitcoin was not accidental; it is rooted in the theory of bits (Bit). All information in the information age is composed of 0s and 1s, and these bits face trust issues during transmission and processing. Satoshi Nakamoto cleverly utilized cryptography and distributed ledger technology to ensure the reliable transmission and storage of bit information, thereby constructing a decentralized trust system.
+
+From a deeper perspective, the Satoshi Nakamoto Problem is also closely related to Wiener's Cybernetics and Information Theory. Wiener pointed out that there is a fundamental difference between machine communication and interpersonal communication. Machine communication is more susceptible to interference and attacks, necessitating the establishment of new trust mechanisms. The emergence of Bitcoin is precisely a response to this problem.
+
+In conclusion, the "Satoshi Nakamoto Problem" concerns the trust crisis in the information age and the security and stability of the bit world. The birth of Bitcoin not only provides a solution to the distributed trust problem but also inspires profound reflections on social organization and governance models in the information age.
+
+## The Value Difference Between "Capability-type" Code and "Functional" Code
+
+Ten years ago, when I was working at Motorola, Huawei proposed a requirement for programmers to write 7 lines of code per day. Based on this, I calculated that the value of one line of code was about 100 yuan. After studying Bitcoin's code, I found that its price per line far exceeded that of code written by traditional internet programmers, so I decided to transition into the field of Bitcoin development.
+
+Today, I find that the price per line of Bitcoin code has reached as high as 20 million US dollars. This has given me a deep understanding of why Bitcoin code is so expensive, while the code of traditional programmers is so cheap.
+
+I believe the fundamental reason lies in the "growth vitality" and "capability" of Bitcoin code. The mechanical consensus it expresses is a self-adaptively growing "capability-type" product with non-replicability. In contrast, traditional internet code is "functional" code, merely simple logic to solve specific needs, easily replicable.
+
+**Summary:**
+
+* Bitcoin code is valuable due to its inherent "growth vitality" and "capability."
+* The mechanical consensus expressed by Bitcoin code is a self-adaptively growing "capability-type" product that is non-replicable.
+* Traditional internet code is "functional" code, designed to solve needs with simple logic, highly replicable, and relatively low in value.
+
+## Mechanical (Cybernetics, Calculation, Communication) Design Philosophy
+
+Turing, by assuming humans are machines, abstracted the Turing Machine to design computers. Building on Turing's foundation, we further refine the abstraction of humans to guide our design of the new Bitcoin paradigm. We divide human functions into a triad: Human (Heart for cybernetics, Brain for calculation, Senses used for communication). Following the concepts of hardware and software, we further divide human functions into:
+
+* **Hardware:** Human (Heart, Brain, Senses)
+* **Software:** Human (cybernetics, calculation, communication)
+
+With this logic, we can analyze public blockchains, coins, smart contracts (tokens), and UTXOs (BRC20/RUNES) in the crypto world.
+
+We first compare Bitcoin and other public blockchains to humans. Then, we analyze them one by one according to the triad design philosophy of humans we have divided. This is because Bitcoin and other public blockchains can be considered independent "mechanicals." Mechanical is compared to Human. This leads to the mechanical triad, mechanical hardware, and software.
+
+* **Hardware:** Mechanical (consensus, VM, Input/Output)
+* **Software:** Mechanical (cybernetics, calculation, communication)
+
+We use the above method to analyze and compare Coin, ERC20, and BRC20, the three most intuitive phenomena in the current reality.
+
+* **Coin:** Possesses all three elements of the mechanical triad: mechanical (cybernetics, calculation, communication).
+* **ERC20:** Possesses two elements of the triad: (calculation, communication). It is not controlled by the consensus used for cybernetics. In other words, ERC20 has no "heart," or ERC20 is not trusted and protected by chain consensus. ERC20 still relies on human and social consensus for protection.
+* **BRC20:** Possesses only one element of the triad: Communication. However, BRC20's Communication is the most secure and trustworthy among all public chains because it is based on the Bitcoin network.
+* **UTXO:** Currently only has the function of Communication.
+
+Based on the above, the importance of the triad is ranked as follows: cybernetics > calculation > communication. This somewhat references humans: heart control > brain calculation > sensory communication.
