@@ -316,3 +316,20 @@ We use the above method to analyze and compare Coin, ERC20, and BRC20, the three
 * **UTXO:** Currently only has the function of Communication.
 
 Based on the above, the importance of the triad is ranked as follows: cybernetics > calculation > communication. This somewhat references humans: heart control > brain calculation > sensory communication.
+
+## Reference Materials
+* Satoshi Nakamoto's Bitcoin Whitepaper and discussions since 2002, including forum posts on the distributed trust problem.
+* Turing's Turing Machine: The hypothesis that humans are machines, and thinking is a mechanical process of the brain.
+* Gödel's Incompleteness Theorem:  The incompleteness of Turing's hypothesis of thinking due to the lack of consideration for the mind.
+* Descartes' Mind-Body Dualism: The separation of mind and body.
+* Hilbert's 10th Problem: The Entscheidungsproblem (decision problem).
+* Wiener's Cybernetics: The study of control and communication in animals and machines.
+* Shannon's Information Theory:  Focusing on the Bit (0,1) as the unit of information.
+* Newton's Calculus and Bishop Berkeley's "Ghosts of Departed Quantities" critique about the concept of limits.
+* Abel's work on elliptic functions, which inspired solutions to problems related to limits.
+* Gauss's discovery of the angular excess in spherical triangles, where the sum of angles is not 180 degrees.
+* Riemann's work on complex manifolds and their application in establishing reasoning logic.
+* Russell's Barber Paradox:  A paradox in set theory that reveals contradictions in self-referential statements.
+* Cantor's work on infinity and the challenges of defining and working with infinite sets.
+* The Diamond Sutra:  Buddhist text exploring the concepts of emptiness (Śūnyatā) and mind.
+* The Platform Sutra:  Zen Buddhist text emphasizing sudden enlightenment and direct experience of truth.
