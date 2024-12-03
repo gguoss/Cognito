@@ -18,3 +18,11 @@ The essence of Bitcoin lies in its adaptive mechanical consensus, akin to the hu
 Past public blockchains have overemphasized the pursuit of computational power, neglecting the central role of the consensus mechanism. Just like in humans, the "heart" is the key to determining direction and action, not just the computational power of the "brain."
 
 Although Satoshi Nakamoto has disappeared, the Bitcoin system he proposed, with its core "Mechanical Heart" – the adaptive mechanical consensus – continues to operate and evolve, guiding the development of the entire crypto industry.
+
+## The Origin and Development of Consensus
+
+In early human history, people gathered for survival, forming a primitive consensus based on collective defense, food distribution, and the division of labor. As society developed, the emergence of the social contract theory attributed the formation of consensus to individual rationality, the spirit of contract, and the constraints of rules, laying the foundation for modern social systems.
+
+However, the advent of the information age brought an unprecedented flood of information, rendering traditional consensus methodologies obsolete. Consequently, Mechanical Consensus emerged, which doesn't rely on humans but instead allows machines to independently form consensus based on complex information. For instance, the Bitcoin network utilizes a computational power competition to maintain system security.
+
+As an emerging form of consensus, Mechanical Consensus will play a crucial role in the information age and deserves our in-depth research.
