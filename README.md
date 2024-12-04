@@ -315,6 +315,8 @@ We use the above method to analyze and compare Coin, ERC20, and BRC20, the three
 * **BRC20:** Possesses only one element of the triad: Communication. However, BRC20's Communication is the most secure and trustworthy among all public chains because it is based on the Bitcoin network.
 * **UTXO:** Currently only has the function of Communication.
 
+We name the above Mechanical Heart Triad theory as: ***Cognito Triad Theory***.
+
 Based on the above, the importance of the triad is ranked as follows: cybernetics > calculation > communication. This somewhat references humans: heart control > brain calculation > sensory communication.
 
 
@@ -354,3 +356,4 @@ Nash equilibrium game can serve as an important tool for constructing continuous
 * Cantor's work on infinity and the challenges of defining and working with infinite sets.
 * The Diamond Sutra:  Buddhist text exploring the concepts of emptiness (Śūnyatā) and mind.
 * The Platform Sutra:  Zen Buddhist text emphasizing sudden enlightenment and direct experience of truth.
+* The Role of Nash Equilibrium Game
