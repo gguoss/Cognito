@@ -356,4 +356,4 @@ Nash equilibrium game can serve as an important tool for constructing continuous
 * Cantor's work on infinity and the challenges of defining and working with infinite sets.
 * The Diamond Sutra:  Buddhist text exploring the concepts of emptiness (Śūnyatā) and mind.
 * The Platform Sutra:  Zen Buddhist text emphasizing sudden enlightenment and direct experience of truth.
-* The Role of Nash Equilibrium Game。
+* The Role of Nash Equilibrium Game.
