@@ -317,6 +317,27 @@ We use the above method to analyze and compare Coin, ERC20, and BRC20, the three
 
 Based on the above, the importance of the triad is ranked as follows: cybernetics > calculation > communication. This somewhat references humans: heart control > brain calculation > sensory communication.
 
+
+## Continuously Conductible Mechanical Heart
+
+ERC20 tokens inherently lack a mechanical heart. Relying solely on the computational capabilities of smart contract platforms, they cannot achieve true autonomy and adaptability. While attempts like the VEE model introduce some mechanical heart functions to ERC20 tokens, their effectiveness remains limited due to the discrete nature of smart contract platforms, making it difficult to build truly robust mechanical consensus.
+
+### Advantages of Continuously Conductible Consensus
+
+Compared to rebuilding mechanical consensus on discrete smart contract platforms, continuously conductible consensus can better leverage the blockchain's inherent consensus mechanism, achieving more efficient and stable consensus transfer.
+
+### How to Achieve Continuously Conductible Consensus?
+
+Based on the Cognito Triad theory, we can start from the following aspects:
+
+1.  **Information Perception:** Design a perception module that enables the mechanical heart to perceive key data such as on-chain status, transaction information, and network environment in real-time, and translate it into comprehensible information.
+2.  **Value Judgment:** Establish a value judgment module that evaluates the value and risks of different behaviors based on the perceived information, and makes decisions accordingly.
+3.  **Behavior Execution:** Design a behavior execution module that translates decisions into specific on-chain operations, such as participating in the consensus process, adjusting incentive parameters, and executing governance rules.
+
+### The Role of Nash Equilibrium Game
+
+Nash equilibrium game can serve as an important tool for constructing continuously conductible consensus. By designing reasonable game rules and incentive mechanisms, participants are guided to act rationally, ultimately reaching the optimal state of the system and achieving distributed trust.
+
 ## Reference Materials
 * Satoshi Nakamoto's Bitcoin Whitepaper and discussions since 2002, including forum posts on the distributed trust problem.
 * Turing's Turing Machine: The hypothesis that humans are machines, and thinking is a mechanical process of the brain.
