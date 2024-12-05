@@ -27,6 +27,103 @@ However, the advent of the information age brought an unprecedented flood of inf
 
 As an emerging form of consensus, Mechanical Consensus will play a crucial role in the information age and deserves our in-depth research.
 
+
+## The Formation Process of Consensus
+
+- Whether it's social consensus or machine consensus, both require an "initial agreement" as a starting point.
+- The "initial agreement" of social consensus is often implicit and cultural, while the "initial agreement" of machine consensus is explicit and technical.
+- The "initial agreement" provides the foundation and direction for the formation of consensus, prompting individuals or machines to move towards a common goal.
+
+### Social Consensus
+
+The formation of social consensus is a dynamic and interactive process, influenced by values, social norms, social influence, and other factors.
+
+### Machine Consensus
+
+The formation of machine consensus is the result of a combination of preset rules and adaptive regulation. Preset rules and algorithms provide the basic framework, while adaptive regulation mechanisms enable the system to cope with complex environments and maintain stable operation.
+
+#### Formation Process of Machine Consensus in Public Chains
+
+**Code:**
+
+*   **Consensus Code:** Defines the underlying rules of the blockchain, such as consensus algorithms (PoW, PoS, etc.), block structure, transaction verification rules, etc. For example, Bitcoin's consensus code stipulates mining difficulty, block rewards, etc.
+*   **Business Code:** Defines the application logic of the blockchain, such as token issuance, transfer, smart contract execution, etc. For example, Ethereum's business code supports the ERC-20 token standard and smart contract functionality.
+
+**Data:**
+
+*   Primarily refers to transaction data (TX), but also includes block data, state data, etc. Transaction data is the core of the blockchain, recording information about value transfer and state changes.
+
+**Client (Computation):**
+
+*   Each node runs client software, responsible for verifying transactions, packaging blocks, broadcasting information, etc. The client software contains the implementation of the consensus code and business code.
+
+**Feedback System:**
+
+*   The economic incentive system is the key to maintaining consensus in a public chain. Through economic means such as token rewards and transaction fees, nodes are incentivized to participate in the consensus process and maintain network security. For example, Bitcoin's mining reward mechanism encourages miners to compete for bookkeeping rights, ensuring the security and stability of the network.
+
+**Roles:**
+
+*   **Developers:** Write and maintain consensus code and business code, continuously improving and upgrading the blockchain system.
+*   **Consensus Guardians (Miners/Validators):** Run clients, participate in the consensus process, and maintain network security.
+*   **Data Participants:** Initiate transactions, create smart contracts, and participate in applications on the blockchain.
+*   **External Regulators:** POS token holders can adjust system parameters through their role as data participants. Consensus guardians can adjust the code through their role as data participants or through soft/hard forks.
+
+#### Formation Process of Machine Consensus in DApps
+
+**Code:**
+
+*   **Incentive Code:** Defines the incentive mechanism within the DApp, such as token distribution, reward rules, governance mechanisms, etc. The goal of the incentive code is to encourage users to participate in the ecological construction and development of the DApp.
+*   **Business Code:** Defines the specific functions and logic of the DApp, such as game rules, transaction processes, social interaction, etc.
+
+**Data:**
+
+*   DApp's business-related data, such as character status in the game, transaction records, user behavior data, etc.
+
+**VM (Computation):**
+
+*   The virtual machine is the execution environment of the DApp, such as the Ethereum Virtual Machine (EVM). The VM is responsible for executing the DApp's code, processing data, and maintaining the DApp's state.
+
+**Feedback System:**
+
+*   The economic incentive system of the DApp, through token rewards, fee sharing, etc., incentivizes user participation and contribution. The design of the feedback system will affect the ecological development and user behavior of the DApp.
+
+**Roles:**
+
+*   **Developers:** Design and develop DApps, write incentive code and business code.
+*   **Trusted VM Platform:** Provides a safe and reliable virtual machine environment to ensure the normal operation of the DApp.
+*   **Data Participants:** Use the DApp, participate in various activities of the DApp, and contribute data and value.
+*   **External Regulators:** Token holders can govern and adjust the feedback mechanism parameters and code through their role as data participants.
+
+## The Transmission of Consensus (Trust)
+
+### Transmission of Consensus Between People:
+
+Through laws, contracts, rules and regulations, ideologies, etc.
+
+### Transmission of Consensus Between Humans and Machines:
+
+***Consensus assetization***
+
+Machine to Human: Converting machine operating data or status information into trusted digital assets.
+
+Human to Machine: Asset holders participate in the feedback of machine consensus through staking/governance and other means.
+
+### Transmission of Consensus Between Machines:
+
+#### 1. Sharing parts of the ***Cognito (cybernetics, calculation, communication)*** of machine consensus:
+
+- 1.1 Sharing Consensus in Cognito: For example, SPV nodes on-chain in State Channel or Taproot Consensus. Lightning Network or Polkadot parachains.
+- 1.2 Sharing Compute in Cognito: For example, VMs that are not directly controlled by consensus. ERC20.
+- 1.3 Sharing Communication in Cognito: For example, UTXOs in Bitcoin with only communication functions. BRC20.
+
+#### 2. Consensus Assetization:
+
+The assets of two machine consensuses are adaptively converted to each other.
+
+For example: The coded consensus of Bittensor/Tao is transmitted between the mainnet and the adaptively incentivized subnet through Tao assets.
+
+
+
 ## Bitcoin Consensus
 
 Bitcoin's consensus mechanism ingeniously combines a computational power competition with economic incentives, achieving self-reinforcement and continuous growth. Miners, driven by the reward of Bitcoin, continuously invest computational power in mining, creating a never-ending competition. This is akin to an "infinite computational power race game," where miners fiercely compete, striving to win rewards by outperforming each other in computational power.
